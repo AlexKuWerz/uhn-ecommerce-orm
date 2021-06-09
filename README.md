@@ -35,7 +35,7 @@ To run application use this command from root folder:
 npm start
 ```
 
-Watch a [Video](https://drive.google.com/file/d/1qAx0-IWi6Yc7K7YFbgkpW9So6K8eLiyK/view) for more detailed example of application output data.
+Watch a [Video](https://drive.google.com/file/d/1iuZCoKmqUuT0Th--_k1T4rp8cNCi5hqS/view) for more detailed example of application output data.
 
 ## Credits
 Author [Oleksandr Kulyk](https://github.com/AlexKuWerz)
